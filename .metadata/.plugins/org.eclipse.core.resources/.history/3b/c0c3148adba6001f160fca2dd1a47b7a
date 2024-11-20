@@ -1,0 +1,11 @@
+package vn.iotstar.DemoSpringSecurity.models;
+
+import lombok.*;
+
+@Data
+public interface Customer {
+	private String id;
+	private String name;
+	private String phoneNumber;
+	private String email;
+}

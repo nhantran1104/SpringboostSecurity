@@ -1,0 +1,5 @@
+package vn.iotstar.DemoSpringSecurity.controllers;
+
+public class CustomerController {
+
+}

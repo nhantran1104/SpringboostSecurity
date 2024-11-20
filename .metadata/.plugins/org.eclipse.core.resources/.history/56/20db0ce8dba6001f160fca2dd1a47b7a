@@ -1,0 +1,10 @@
+package vn.iotstar.DemoSpringSecurity.controllers;
+
+import org.springframework.security.config.annotation.method.configuration.EnableMethodSecurity;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@EnableMethodSecurity
+public class CustomerController {
+	
+}

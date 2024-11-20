@@ -1,0 +1,18 @@
+package vn.iotstar.Demo2.service;
+
+import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.security.core.userdetails.UserDetailsService;
+import org.springframework.security.core.userdetails.UsernameNotFoundException;
+
+import vn.iotstar.Demo2.repository.UserInfoRepository;
+
+public class UserInfoService implements UserDetailsService{
+	@Autowired
+	UserInfoRepository repository;
+	@Override
+	public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,6 @@
+package vn.iotstar.DemoSpringSecurity.models;
+
+@Data
+public interface Customer {
+
+}

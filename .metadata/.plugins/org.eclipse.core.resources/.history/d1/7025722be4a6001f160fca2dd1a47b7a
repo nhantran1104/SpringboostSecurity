@@ -1,0 +1,7 @@
+package vn.iotstar.Demo2.service;
+
+import org.springframework.security.core.userdetails.UserDetails;
+
+public class UserInfoUserDetails implements UserDetails {
+
+}
