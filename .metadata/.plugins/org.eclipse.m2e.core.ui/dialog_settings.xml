@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\SpringboostSecurity\Demo3"/>
 			<item value="D:\SpringboostSecurity\Demo2"/>
 			<item value="D:\SpringboostSecurity\DemoSpringSecurity"/>
 		</list>
